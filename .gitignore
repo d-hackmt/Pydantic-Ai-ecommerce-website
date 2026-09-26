@@ -1,3 +1,11 @@
-pydanticenv
+# virtual environment
+pydanticenv/
 
+# secrets
+.env
 
+# logfire
+.logfire/
+
+# local scratch notebooks
+experiments/mongodb/mongo_copy.ipynb
